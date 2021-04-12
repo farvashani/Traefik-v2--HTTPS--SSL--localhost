@@ -15,3 +15,5 @@ generate certificate for localhost and the subdomian which is needed for this sa
 mkcert -cert-file certs/local-cert.pem -key-file certs/local-key.pem "docker.localhost" "*.docker.localhost" "domain.local" "*.domain.local"
 
 ```
+basd on the article
+https://zestedesavoir.com/billets/3355/traefik-v2-https-ssl-en-localhost/#1-un-certificat-auto-signe
