@@ -1,4 +1,4 @@
-clone the repo
+Clone the repo
 
 ```
 git clone https://github.com/farvashani/Traefik-v2--HTTPS--SSL--localhost.git
